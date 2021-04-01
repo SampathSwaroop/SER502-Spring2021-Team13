@@ -1,0 +1,40 @@
+SER 502 Contribution - Team 13
+
+Members
+
+Saloni Chudgar - 1219586082
+Sanjana Mukundan - 1219492846
+Chandra Sekhar Sai Sampath Swaroop Atkuri -1219630568
+Sudhanva Hanumanth Rao - 1219246938
+
+Week 1 (Mar 24 - 31)
+
+Saloni 
+	Setting up a git repository
+	Worked on language design
+	Assisted with grammar rules
+Sanjana
+	Familiarizing with Git repository
+	Worked on language design
+	Assisted with grammar rules
+Sampath
+	Setting up a git repository
+	Worked on language design
+	Assisted with grammar rules
+Sudhanva
+	Familiarizing with Git repository
+	Worked on language design
+	Assisted with grammar rules
+
+Future work : 
+
+Familiarize with ANTLR tool.
+Write test cases to test the grammar.
+Generate Bash Scripts.
+Generate parse tree.
+Create a lexical analyzer.
+Work on intermediate code generation.
+Work on runtime execution.
+Write test cases to check runtime code.
+Create a video.
+Create a presentation.
