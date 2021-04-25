@@ -9,7 +9,7 @@ import java.util.*;
 
 public class IJARPLRuntime {
 
-    static HashMap<String,Integer> variables = new HashMap<String,Integer>();
+    
     static Stack<Integer> integerStack = new Stack<Integer>();
     static Stack<Boolean> booleanStack = new Stack<Boolean>();
     static ArrayList<String> programList = new ArrayList<String>();
