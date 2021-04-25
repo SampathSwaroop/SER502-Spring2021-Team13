@@ -38,3 +38,24 @@ Work on runtime execution.
 Write test cases to check runtime code.
 Create a video.
 Create a presentation.
+
+502 FInal Prject Final phase contirbution
+Saloni :
+	Worked on creating the parse tree (lexer and parser) from the 
+	grammar by installing and running the antler tool.
+	Worked on intermediate code generation.
+	WOrked on document creation.
+Sanjana : 
+	Worked on Intermediate code genertion by taking the parse tree.
+	Worked on Power point presentation and also on parse tree genertion
+	for the string passed.
+Sudhanva : 
+	Worked on creation of the runtime java code which takes 
+	the intermediate code as the input.
+	Helped in Compiler java code for the language.
+	Worked on Document creation.
+Sampath :
+	Worked on Compiler java code for the programming language.
+	Helped in the coding for runtime java code which used intermediate 
+	code gnerated as input.
+	Has worked on power point presentation.
