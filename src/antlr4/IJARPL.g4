@@ -73,7 +73,9 @@ if_cond:
     'if' '(' expr ')' block
     | 'if' '(' expr ')' block 'else' block
     ;
-/* for loop */
+/*
+<for_loop> := for <for_loop_statement> <block>
+*/
 for_loop:
     'for' for_loop_statement block
     ;
@@ -197,6 +199,9 @@ DATA_TYPE:
     'int' | 'bool'
     ;
 
+/*
+<print> := <expr> | <string>
+*/
 print: 'print(' argument = expr ')'
 		  | 'print(' text = STRING ')'
 		  ;
